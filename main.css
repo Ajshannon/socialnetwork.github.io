@@ -1,0 +1,44 @@
+html, body{
+    left:50px;
+    right:50px;
+    background-color: rgb(242, 242, 242);
+}
+
+p {
+
+}
+.main {
+    display:flex;
+    max-width: 850;
+}
+.column1 {
+   flex-basis: 50%;
+  }
+    
+}
+.column2 {
+    flex-basis: 50%;
+
+}
+.LB {
+    
+    height: 150px;
+    margin-top: 15px;
+    padding-bottom:50px ;
+    padding-top: 50px;
+    border: 1px solid lightgrey;
+    box-shadow: 5px 10px;
+    background-color: rgb(241, 241, 241);
+
+}
+.RB {
+  
+    height: 150px;
+    margin-top: 15px;
+    padding-bottom:50px ;
+    padding-top: 50px;
+    border: 1px solid lightgrey;
+    box-shadow: 5px 10px;
+    background-color: rgb(241, 241, 241);
+}
+
